@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-14 09:25:30 +0000",
       "minecraft:frozen_river": "2025-06-14 07:41:59 +0000",
       "minecraft:beach": "2025-06-14 06:37:36 +0000",
       "minecraft:river": "2025-06-14 07:42:05 +0000",
@@ -430,7 +431,8 @@
       "porkchop": "2025-06-14 08:32:34 +0000",
       "potato": "2025-06-14 07:50:33 +0000",
       "mutton": "2025-06-14 07:41:02 +0000",
-      "bread": "2025-06-14 07:44:17 +0000"
+      "bread": "2025-06-14 07:44:17 +0000",
+      "carrot": "2025-06-14 09:18:29 +0000"
     },
     "done": false
   },
@@ -1172,6 +1174,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-14 08:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-14 09:18:25 +0000"
     },
     "done": true
   },
