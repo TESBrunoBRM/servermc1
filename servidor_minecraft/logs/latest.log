@@ -2408,3 +2408,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [14Jun2025 09:19:11.432] [Server thread/INFO] [tombstone/]: The player TES_BrunoBRM has successfully been saved
 [14Jun2025 09:22:41.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Sweet Dreams]
 [14Jun2025 09:23:30.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported TES_BrunoBRM to mi1mii]
+[14Jun2025 09:32:38.251] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[14Jun2025 09:32:38.252] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jun2025 09:32:38.252] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[14Jun2025 09:32:38.252] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[14Jun2025 09:32:38.252] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jun2025 09:32:38.253] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jun2025 09:32:38.253] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jun2025 09:32:38.253] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
