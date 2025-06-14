@@ -2316,3 +2316,18 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
 [14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jun2025 08:20:23.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Suit Up]
+[14Jun2025 08:25:21.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Knowledge of Death]
+[14Jun2025 08:25:21.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [A Strange Grave Dust]
+[14Jun2025 08:25:46.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Knowledge raises the soul]
+[14Jun2025 08:26:37.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii lost connection: Disconnected
+[14Jun2025 08:26:37.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii left the game
+[14Jun2025 08:26:37.421] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mi1mii
+[14Jun2025 08:26:37.480] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jun2025 08:26:58.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mi1mii[/127.81.61.3:37559] logged in with entity id 14934 at (90.00703294432334, 23.0, 73.30173703676016)
+[14Jun2025 08:26:58.387] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mi1mii
+[14Jun2025 08:26:58.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii joined the game
+[14Jun2025 08:26:58.423] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
+[14Jun2025 08:27:00.445] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
+[14Jun2025 08:27:00.445] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
+[14Jun2025 08:27:08.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Acquire Hardware]

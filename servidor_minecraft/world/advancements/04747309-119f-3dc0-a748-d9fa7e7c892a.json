@@ -12,6 +12,7 @@
       "minecraft:river": "2025-06-14 07:42:05 +0000",
       "minecraft:stony_shore": "2025-06-14 06:18:02 +0000",
       "minecraft:snowy_plains": "2025-06-14 07:40:28 +0000",
+      "minecraft:forest": "2025-06-14 08:15:26 +0000",
       "minecraft:ice_spikes": "2025-06-14 07:41:57 +0000",
       "minecraft:plains": "2025-06-14 06:04:45 +0000"
     },
@@ -326,6 +327,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-14 07:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-14 08:20:23 +0000"
     },
     "done": true
   },
