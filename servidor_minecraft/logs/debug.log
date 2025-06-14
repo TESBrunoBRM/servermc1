@@ -6486,3 +6486,48 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [14Jun2025 08:06:51.734] [Server thread/DEBUG] [tombstone/]: A new grave of the player mi1mii was created at position [x:-8, y:69, z:-19, dim:minecraft:overworld]
 [14Jun2025 08:06:51.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Your First Grave]
 [14Jun2025 08:06:51.748] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[14Jun2025 08:07:11.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Nightmare Stalker
+[14Jun2025 08:07:11.722] [Server thread/DEBUG] [tombstone/]: A new grave of the player mi1mii was created at position [x:-8, y:69, z:-19, dim:minecraft:overworld]
+[14Jun2025 08:07:11.732] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[14Jun2025 08:07:11.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 08:07:11.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 08:07:37.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Here They Come]
+[14Jun2025 08:07:42.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Monster Hunter]
+[14Jun2025 08:08:18.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=68, z=-25} BlockPos{x=-9, y=68, z=-16}
+[14Jun2025 08:08:18.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=68, z=-25} BlockPos{x=-9, y=68, z=-15}
+[14Jun2025 08:08:18.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=68, z=-25} BlockPos{x=-10, y=68, z=-15}
+[14Jun2025 08:08:21.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=68, z=-25} BlockPos{x=-11, y=68, z=-2}
+[14Jun2025 08:08:36.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was blown up by Creeper
+[14Jun2025 08:08:36.826] [Server thread/DEBUG] [tombstone/]: A new grave of the player mi1mii was created at position [x:-37, y:69, z:9, dim:minecraft:overworld]
+[14Jun2025 08:08:36.836] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[14Jun2025 08:09:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Monster Hunter]
+[14Jun2025 08:10:11.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Door Knight
+[14Jun2025 08:10:11.722] [Server thread/DEBUG] [tombstone/]: A new grave of the player mi1mii was created at position [x:-36, y:66, z:6, dim:minecraft:overworld]
+[14Jun2025 08:10:11.728] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[14Jun2025 08:10:12.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Not Today, Thank You]
+[14Jun2025 08:10:33.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Bony King]
+[14Jun2025 08:11:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM was slain by Fallen Chaos Knight
+[14Jun2025 08:11:10.371] [Server thread/DEBUG] [tombstone/]: A new grave of the player TES_BrunoBRM was created at position [x:-559, y:61, z:577, dim:minecraft:overworld]
+[14Jun2025 08:11:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Your First Grave]
+[14Jun2025 08:11:10.382] [Server thread/INFO] [tombstone/]: The player TES_BrunoBRM has successfully been saved
+[14Jun2025 08:11:13.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has reached the goal [Here They Come]
+[14Jun2025 08:11:14.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Peacock Spider
+[14Jun2025 08:11:14.775] [Server thread/DEBUG] [tombstone/]: A new grave of the player mi1mii was created at position [x:-38, y:69, z:13, dim:minecraft:overworld]
+[14Jun2025 08:11:14.784] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[14Jun2025 08:12:11.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 08:12:11.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 08:12:24.271] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of mi1mii: {disabled=true, disconnected=true, uuid=c514e869-ebd5-3bcb-abb7-8e3982829461, name=mi1mii, group=null}
+[14Jun2025 08:13:24.815] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[14Jun2025 08:14:13.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Stone Age]
+[14Jun2025 08:14:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Getting an Upgrade]
+[14Jun2025 08:14:48.029] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TES_BrunoBRM: {disabled=true, disconnected=true, uuid=04747309-119f-3dc0-a748-d9fa7e7c892a, name=TES_BrunoBRM, group=null}
+[14Jun2025 08:15:22.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported TES_BrunoBRM to mi1mii]
+[14Jun2025 08:15:34.320] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jun2025 08:15:34.320] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[14Jun2025 08:15:34.320] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jun2025 08:15:34.321] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
