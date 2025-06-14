@@ -2375,3 +2375,25 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [14Jun2025 08:54:52.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Diamonds!]
 [14Jun2025 08:55:33.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [The Wind Darkening]
 [14Jun2025 08:57:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Deceived Hopes]
+[14Jun2025 09:03:55.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Tusklin
+[14Jun2025 09:03:55.528] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[14Jun2025 09:04:07.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=72, z=7}
+[14Jun2025 09:04:09.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=72, z=7}
+[14Jun2025 09:05:37.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii was kicked for floating too long!
+[14Jun2025 09:05:37.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii lost connection: Flying is not enabled on this server
+[14Jun2025 09:05:37.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii left the game
+[14Jun2025 09:05:37.673] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mi1mii
+[14Jun2025 09:06:11.820] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6af058e6[id=<null>,name=mi1mii,properties={},legacy=false] (/127.81.61.3:56521) lost connection: Disconnected
+[14Jun2025 09:06:20.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mi1mii[/127.81.61.3:35881] logged in with entity id 30843 at (248.08979901725718, 75.28549238931866, 176.59194120861494)
+[14Jun2025 09:06:20.532] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mi1mii
+[14Jun2025 09:06:20.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii joined the game
+[14Jun2025 09:06:20.541] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
+[14Jun2025 09:06:22.626] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
+[14Jun2025 09:06:22.626] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
+[14Jun2025 09:06:53.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Cover Me with Diamonds]
+[14Jun2025 09:11:51.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Deceived Hopes]
+[14Jun2025 09:12:35.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/31000, l='ServerLevel[world]', x=361.60, y=69.00, z=128.91] died, message: 'Farmer was slain by Froststalker'
+[14Jun2025 09:13:24.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported TES_BrunoBRM to mi1mii]
+[14Jun2025 09:14:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM was slain by Froststalker
+[14Jun2025 09:14:22.672] [Server thread/INFO] [tombstone/]: The player TES_BrunoBRM has successfully been saved
+[14Jun2025 09:14:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Ice Scream]
