@@ -2072,3 +2072,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 14:36:04.071] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
 [15Jun2025 14:38:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii withered away whilst fighting Nightmare Stalker
 [15Jun2025 14:38:39.871] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 15:03:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii withered away
+[15Jun2025 15:03:30.966] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 15:05:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Horror Under the Mantle]
+[15Jun2025 15:08:56.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Dragonslayer]
+[15Jun2025 15:13:40.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1287, y=71, z=-749} BlockPos{x=1286, y=69, z=-748}
+[15Jun2025 15:13:40.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1287, y=71, z=-749} BlockPos{x=1286, y=69, z=-748}
+[15Jun2025 15:13:40.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1287, y=71, z=-749} BlockPos{x=1288, y=70, z=-749}
+[15Jun2025 15:13:40.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1287, y=71, z=-749} BlockPos{x=1288, y=70, z=-749}
+[15Jun2025 15:13:40.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1287, y=71, z=-749} BlockPos{x=1288, y=70, z=-749}
+[15Jun2025 15:14:07.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1297, y=71, z=-747} BlockPos{x=1296, y=69, z=-748}
