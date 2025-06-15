@@ -2893,10 +2893,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-15 03:29:39 +0000",
       "minecraft:nether_wastes": "2025-06-15 03:07:55 +0000",
+      "minecraft:soul_sand_valley": "2025-06-15 17:22:35 +0000",
       "minecraft:basalt_deltas": "2025-06-15 03:05:17 +0000",
       "minecraft:warped_forest": "2025-06-15 03:08:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
@@ -3906,6 +3907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-15 17:23:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2025-06-15 16:25:20 +0000"
@@ -4284,6 +4291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-15 17:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-06-15 17:08:32 +0000"
@@ -4431,6 +4444,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-06-15 16:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-15 17:22:13 +0000"
     },
     "done": true
   },
