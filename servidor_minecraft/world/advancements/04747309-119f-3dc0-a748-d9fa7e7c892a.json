@@ -2499,6 +2499,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-06-15 04:47:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:flanged_mace": {
     "criteria": {
       "has_flanged_mace": "2025-06-15 04:40:58 +0000"

@@ -86,7 +86,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-15 02:49:53 +0000",
+      "minecraft:spider": "2025-06-15 04:47:14 +0000",
       "minecraft:creeper": "2025-06-15 04:21:38 +0000",
+      "minecraft:witch": "2025-06-15 04:46:19 +0000",
       "minecraft:silverfish": "2025-06-15 03:26:49 +0000",
       "minecraft:zombie": "2025-06-15 02:49:05 +0000"
     },
@@ -2095,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 04:48:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-06-15 04:31:34 +0000"
@@ -2128,6 +2136,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-06-15 04:30:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-06-15 04:53:06 +0000"
     },
     "done": true
   },
@@ -2203,6 +2217,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-06-15 04:53:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-06-15 04:30:12 +0000"
@@ -2218,6 +2238,18 @@
   "spartanweaponry:recipes/wooden_arrow": {
     "criteria": {
       "has_bow": "2025-06-15 04:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-15 04:47:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 04:46:19 +0000"
     },
     "done": true
   },
@@ -2254,6 +2286,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-06-15 04:35:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-15 04:46:19 +0000"
     },
     "done": true
   },
@@ -2320,6 +2358,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-06-15 04:20:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-06-15 04:45:00 +0000"
     },
     "done": true
   },
