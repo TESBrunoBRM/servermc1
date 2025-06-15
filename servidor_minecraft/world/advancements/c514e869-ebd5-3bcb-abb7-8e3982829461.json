@@ -128,7 +128,8 @@
       "minecraft:cave_spider": "2025-06-14 08:36:56 +0000",
       "minecraft:piglin": "2025-06-15 03:08:38 +0000",
       "minecraft:silverfish": "2025-06-15 03:14:23 +0000",
-      "minecraft:zombie": "2025-06-14 08:28:54 +0000"
+      "minecraft:zombie": "2025-06-14 08:28:54 +0000",
+      "minecraft:zombie_villager": "2025-06-15 13:31:19 +0000"
     },
     "done": false
   },
@@ -3522,6 +3523,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-15 13:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-15 13:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-15 13:18:58 +0000"
@@ -3531,6 +3544,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-06-15 13:25:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 13:35:23 +0000"
     },
     "done": true
   },
