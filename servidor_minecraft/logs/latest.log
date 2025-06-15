@@ -2032,3 +2032,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 13:20:32.056] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [15Jun2025 13:20:32.056] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [15Jun2025 13:20:32.057] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[15Jun2025 13:26:44.550] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[15Jun2025 13:26:44.551] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
