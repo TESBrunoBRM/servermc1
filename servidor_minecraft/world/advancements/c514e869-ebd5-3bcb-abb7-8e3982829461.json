@@ -121,6 +121,8 @@
       "minecraft:ghast": "2025-06-15 03:12:32 +0000",
       "minecraft:magma_cube": "2025-06-15 03:07:08 +0000",
       "minecraft:spider": "2025-06-14 08:44:28 +0000",
+      "minecraft:piglin_brute": "2025-06-15 03:59:45 +0000",
+      "minecraft:creeper": "2025-06-15 04:22:08 +0000",
       "minecraft:wither_skeleton": "2025-06-15 03:24:18 +0000",
       "minecraft:husk": "2025-06-14 09:35:11 +0000",
       "minecraft:cave_spider": "2025-06-14 08:36:56 +0000",
@@ -146,9 +148,11 @@
     "criteria": {
       "cooked_porkchop": "2025-06-14 08:16:50 +0000",
       "cooked_mutton": "2025-06-14 09:27:27 +0000",
+      "cooked_beef": "2025-06-15 04:20:04 +0000",
       "bread": "2025-06-14 08:41:09 +0000",
       "rotten_flesh": "2025-06-14 08:10:57 +0000",
       "glow_berries": "2025-06-14 08:38:25 +0000",
+      "golden_carrot": "2025-06-15 04:05:54 +0000",
       "cooked_chicken": "2025-06-14 08:57:15 +0000"
     },
     "done": false
@@ -3006,9 +3010,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-15 04:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-15 03:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-06-15 04:05:24 +0000"
     },
     "done": true
   },
@@ -3021,6 +3043,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-15 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-15 04:01:47 +0000"
     },
     "done": true
   },
@@ -3168,6 +3196,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-15 04:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-15 03:34:31 +0000"
@@ -3231,6 +3265,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-15 03:53:44 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-06-15 04:05:24 +0000"
     },
     "done": true
   },
