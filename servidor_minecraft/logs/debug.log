@@ -14666,3 +14666,82 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 17:25:53.297] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
 [15Jun2025 17:25:53.297] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
 [15Jun2025 17:25:53.297] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:26:37.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [A Terrible Fortress]
+[15Jun2025 17:27:01.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:02.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:04.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:04.064] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:27:10.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:12.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:13.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:13.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:15.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:15.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:15.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:16.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:16.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:17.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:18.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:27:30.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Spooky Scary Skeleton]
+[15Jun2025 17:27:33.062] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:27:47.061] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:27:48.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Into Fire]
+[15Jun2025 17:28:19.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:20.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:20.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:20.761] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:28:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Defunct Machinery]
+[15Jun2025 17:28:29.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Magery]
+[15Jun2025 17:28:41.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:42.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:42.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:43.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:44.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:44.263] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:44.263] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:28:45.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:45.611] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:28:47.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:28:47.810] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:29:02.842] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:02.842] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[15Jun2025 17:29:03.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:03.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[15Jun2025 17:29:03.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:06.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:06.461] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:29:06.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[15Jun2025 17:29:07.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:07.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[15Jun2025 17:29:07.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:08.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:09.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:09.396] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:29:09.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[15Jun2025 17:29:13.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 17:29:13.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 17:29:35.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:35.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[15Jun2025 17:29:37.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:38.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jun2025 17:29:38.644] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[15Jun2025 17:29:38.645] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[15Jun2025 17:34:13.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 17:34:13.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 17:34:48.565] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[15Jun2025 17:35:02.513] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.513] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.513] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.513] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.513] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.513] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.514] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.514] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.518] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.519] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.519] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.519] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.519] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.519] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.519] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[15Jun2025 17:35:02.519] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
