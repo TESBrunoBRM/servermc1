@@ -2065,3 +2065,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 14:16:41.087] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
 [15Jun2025 14:17:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Life turned out to be a comedy]
 [15Jun2025 14:19:04.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Sneak 100]
+[15Jun2025 14:27:28.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii moved too quickly! 5.5527700251971055,-8.252203340253722,-1.8467978955407034
+[15Jun2025 14:33:34.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was frozen by Ice Dragon
+[15Jun2025 14:33:34.769] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 14:36:04.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii drowned
+[15Jun2025 14:36:04.071] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 14:38:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii withered away whilst fighting Nightmare Stalker
+[15Jun2025 14:38:39.871] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
