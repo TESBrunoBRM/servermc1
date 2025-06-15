@@ -3124,6 +3124,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-15 05:04:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-15 03:51:14 +0000"
@@ -3193,6 +3199,12 @@
   "spartanweaponry:recipes/silver_halberd": {
     "criteria": {
       "has_silver_ingot": "2025-06-15 04:47:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 05:04:24 +0000"
     },
     "done": true
   },
@@ -3301,6 +3313,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-06-15 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-06-15 05:03:58 +0000"
     },
     "done": true
   },
@@ -3421,6 +3439,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-15 03:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 05:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 05:04:24 +0000"
     },
     "done": true
   },
