@@ -3596,9 +3596,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-15 17:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-15 13:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-15 17:40:13 +0000"
     },
     "done": true
   },
@@ -3929,6 +3941,12 @@
   "spartanweaponry:recipes/small_bolt_quiver": {
     "criteria": {
       "has_bolt": "2025-06-15 15:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-15 17:38:24 +0000"
     },
     "done": true
   },
@@ -4415,6 +4433,12 @@
   "dungeons_and_combat:the_cursed_soul": {
     "criteria": {
       "the_cursed_soul_0": "2025-06-15 17:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-15 17:38:24 +0000"
     },
     "done": true
   },
