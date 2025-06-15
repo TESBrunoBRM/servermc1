@@ -162,7 +162,8 @@
       "rotten_flesh": "2025-06-14 08:10:57 +0000",
       "glow_berries": "2025-06-14 08:38:25 +0000",
       "golden_carrot": "2025-06-15 04:05:54 +0000",
-      "cooked_chicken": "2025-06-14 08:57:15 +0000"
+      "cooked_chicken": "2025-06-14 08:57:15 +0000",
+      "carrot": "2025-06-15 18:06:04 +0000"
     },
     "done": false
   },
@@ -3542,6 +3543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-15 18:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-15 16:00:29 +0000"
@@ -3785,6 +3792,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-15 16:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-06-15 18:06:11 +0000"
     },
     "done": true
   },
@@ -4220,6 +4233,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-15 18:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-06-15 17:08:32 +0000"
@@ -4393,6 +4412,12 @@
       "wither_skull": "2025-06-15 17:27:30 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-06-15 18:13:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
@@ -4619,6 +4644,18 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-06-15 17:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "pitcher_pod": "2025-06-15 18:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pitcher_pod": "2025-06-15 18:05:47 +0000"
     },
     "done": true
   },
