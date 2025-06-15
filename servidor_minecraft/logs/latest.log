@@ -2035,3 +2035,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 02:37:07.797] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TES_BrunoBRM (18)
 [15Jun2025 02:37:07.798] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TES_BrunoBRM
 [15Jun2025 02:37:24.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1111, l='ServerLevel[world]', x=340.74, y=67.00, z=159.26] died, message: 'Farmer was slain by Froststalker'
+[15Jun2025 02:45:53.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii withered away whilst fighting Baby Skeleton
+[15Jun2025 02:45:53.622] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 02:48:10.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gueremydfg[/127.35.92.233:39291] logged in with entity id 5918 at (8.5, 70.0, -8.5)
+[15Jun2025 02:48:10.652] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Gueremydfg
+[15Jun2025 02:48:10.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gueremydfg joined the game
+[15Jun2025 02:48:10.693] [Server thread/INFO] [Jade/]: Syncing config to Gueremydfg (dca78290-25df-338e-bc7a-7fdbad935af6)
+[15Jun2025 02:48:10.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gueremydfg has made the advancement [Dungeons And Combat]
+[15Jun2025 02:48:10.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gueremydfg has made the advancement [Ice and Fire]
+[15Jun2025 02:48:12.654] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Gueremydfg (18)
+[15Jun2025 02:48:12.654] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Gueremydfg
+[15Jun2025 02:48:35.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Spider
+[15Jun2025 02:48:35.100] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 02:48:37.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii lost connection: Disconnected
+[15Jun2025 02:48:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii left the game
+[15Jun2025 02:48:37.088] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mi1mii
+[15Jun2025 02:48:37.139] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jun2025 02:48:48.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mi1mii[/127.81.61.3:38717] logged in with entity id 6359 at (530.2099711665272, 15.49520087700591, 300.08744000713784)
+[15Jun2025 02:48:48.903] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mi1mii
+[15Jun2025 02:48:48.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii joined the game
+[15Jun2025 02:48:48.923] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
+[15Jun2025 02:48:51.635] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
+[15Jun2025 02:48:51.635] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
+[15Jun2025 02:49:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gueremydfg has made the advancement [Monster Hunter]
+[15Jun2025 02:49:06.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii lost connection: Disconnected
+[15Jun2025 02:49:06.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii left the game
+[15Jun2025 02:49:06.935] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mi1mii
+[15Jun2025 02:49:10.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=70, z=-13}
+[15Jun2025 02:50:18.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=70, z=-6}
+[15Jun2025 02:50:18.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=72, z=-7}
+[15Jun2025 02:50:21.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:22.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:22.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:22.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-4}
+[15Jun2025 02:50:22.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=69, z=-4}
+[15Jun2025 02:50:22.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=69, z=-4}
+[15Jun2025 02:50:24.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mi1mii[/127.81.61.3:53171] logged in with entity id 6983 at (531.0413115390896, 15.0625, 299.8855425573464)
+[15Jun2025 02:50:24.358] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mi1mii
+[15Jun2025 02:50:24.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii joined the game
+[15Jun2025 02:50:24.386] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
+[15Jun2025 02:50:25.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-4}
+[15Jun2025 02:50:26.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:26.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:26.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:26.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:27.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:27.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:27.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:27.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=69, z=-5}
+[15Jun2025 02:50:28.346] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
+[15Jun2025 02:50:28.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
+[15Jun2025 02:51:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported Gueremydfg to TES_BrunoBRM]
+[15Jun2025 02:51:40.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii was kicked for floating too long!
+[15Jun2025 02:51:40.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii lost connection: Flying is not enabled on this server
+[15Jun2025 02:51:40.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii left the game
+[15Jun2025 02:51:40.219] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mi1mii
+[15Jun2025 02:51:49.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mi1mii[/127.81.61.3:37997] logged in with entity id 7813 at (498.5327104290754, 36.36247330396262, 347.9845609200035)
+[15Jun2025 02:51:49.195] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mi1mii
+[15Jun2025 02:51:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii joined the game
+[15Jun2025 02:51:49.211] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
+[15Jun2025 02:51:51.288] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
+[15Jun2025 02:51:51.288] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
