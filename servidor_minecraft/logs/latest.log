@@ -2037,3 +2037,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 13:35:23.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Strong or Careful]
 [15Jun2025 13:35:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Scarlet Persecutor
 [15Jun2025 13:35:23.494] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 13:45:29.613] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[15Jun2025 13:45:29.614] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[15Jun2025 13:45:29.614] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[15Jun2025 13:45:29.615] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[15Jun2025 13:45:29.615] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[15Jun2025 13:45:29.616] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jun2025 13:45:29.616] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jun2025 13:46:59.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Your First Receptacle]
+[15Jun2025 13:49:39.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Explosive King]
+[15Jun2025 13:50:35.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Arachnophobe's Nightmare]
