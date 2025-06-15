@@ -2055,3 +2055,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 14:02:26.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Bony King]
 [15Jun2025 14:03:03.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Cave Centipede
 [15Jun2025 14:03:03.025] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 14:03:59.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Chain Death]
+[15Jun2025 14:03:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Nightmare Stalker
+[15Jun2025 14:03:59.484] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
