@@ -2087,3 +2087,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 15:18:36.345] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
 [15Jun2025 15:18:36.345] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
 [15Jun2025 15:24:27.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Ambush]
+[15Jun2025 15:25:02.512] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/41607, l='ServerLevel[world]', x=983.61, y=68.00, z=-746.07] died, message: 'Farmer was slain by Decaying Zombie'
+[15Jun2025 15:25:09.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/41608, l='ServerLevel[world]', x=990.19, y=68.00, z=-747.18] died, message: 'Farmer was slain by Door Knight'
+[15Jun2025 15:25:15.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/41606, l='ServerLevel[world]', x=983.55, y=68.00, z=-751.42] died, message: 'Shepherd was slain by Door Knight'
+[15Jun2025 15:25:17.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/41739, l='ServerLevel[world]', x=983.50, y=68.00, z=-747.79] died, message: 'Fisherman was slain by Door Knight'
+[15Jun2025 15:25:42.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Fighting Nightmares]
