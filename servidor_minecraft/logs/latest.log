@@ -2058,3 +2058,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 14:03:59.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Chain Death]
 [15Jun2025 14:03:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Nightmare Stalker
 [15Jun2025 14:03:59.484] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 14:16:41.085] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jun2025 14:16:41.086] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jun2025 14:16:41.087] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jun2025 14:16:41.087] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[15Jun2025 14:16:41.087] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[15Jun2025 14:17:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Life turned out to be a comedy]
+[15Jun2025 14:19:04.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Sneak 100]
