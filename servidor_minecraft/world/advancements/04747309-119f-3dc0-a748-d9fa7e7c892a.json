@@ -433,6 +433,7 @@
       "mutton": "2025-06-14 07:41:02 +0000",
       "bread": "2025-06-14 07:44:17 +0000",
       "beetroot": "2025-06-14 09:41:28 +0000",
+      "mushroom_stew": "2025-06-15 01:50:29 +0000",
       "carrot": "2025-06-14 09:18:29 +0000"
     },
     "done": false
@@ -1920,6 +1921,36 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-06-15 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-06-15 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-06-15 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-15 01:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-15 01:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-15 01:52:00 +0000"
     },
     "done": true
   },
