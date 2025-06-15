@@ -1954,5 +1954,11 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-06-15 02:53:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
