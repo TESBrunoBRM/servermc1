@@ -2142,3 +2142,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jun2025 16:34:30.683] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
 [15Jun2025 16:34:30.683] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [15Jun2025 16:45:34.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has reached the goal [Senior Summoner]
+[15Jun2025 16:53:47.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Leaf Peacock Spider
+[15Jun2025 16:53:47.917] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[15Jun2025 16:53:47.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii moved wrongly!
+[15Jun2025 17:00:56.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Dark Forging]
