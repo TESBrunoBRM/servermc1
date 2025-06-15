@@ -1917,5 +1917,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-06-15 01:45:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
