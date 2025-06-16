@@ -51,6 +51,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-14 08:46:28 +0000",
       "minecraft:taiga": "2025-06-14 08:18:59 +0000",
+      "minecraft:frozen_river": "2025-06-16 01:09:41 +0000",
       "minecraft:beach": "2025-06-14 08:05:26 +0000",
       "minecraft:river": "2025-06-14 08:45:27 +0000",
       "minecraft:stony_shore": "2025-06-14 08:06:33 +0000",
@@ -4794,6 +4795,60 @@
   "spartanweaponry:recipes/combat/simple_pole": {
     "criteria": {
       "has_handle": "2025-06-16 00:39:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-16 01:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-16 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-06-16 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-16 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-06-16 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-06-16 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 01:10:43 +0000"
     },
     "done": true
   },

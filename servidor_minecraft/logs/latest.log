@@ -7,3 +7,29 @@
 [16Jun2025 00:41:52.530] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
 [16Jun2025 00:41:54.615] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
 [16Jun2025 00:41:54.616] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
+[16Jun2025 01:08:59.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TES_BrunoBRM[/127.251.55.107:41135] logged in with entity id 17737 at (739.1467619068303, 96.0, 34.92111052229055)
+[16Jun2025 01:08:59.631] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player TES_BrunoBRM
+[16Jun2025 01:08:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM joined the game
+[16Jun2025 01:08:59.664] [Server thread/INFO] [Jade/]: Syncing config to TES_BrunoBRM (04747309-119f-3dc0-a748-d9fa7e7c892a)
+[16Jun2025 01:09:01.974] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TES_BrunoBRM (18)
+[16Jun2025 01:09:01.974] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TES_BrunoBRM
+[16Jun2025 01:09:47.937] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[16Jun2025 01:09:47.937] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[16Jun2025 01:09:47.938] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[16Jun2025 01:10:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TES_BrunoBRM> hi
+[16Jun2025 01:10:16.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TES_BrunoBRM> toy en el ds
+[16Jun2025 01:14:19.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TES_BrunoBRM was kicked for floating too long!
+[16Jun2025 01:14:19.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TES_BrunoBRM lost connection: Disconnected
+[16Jun2025 01:14:19.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM left the game
+[16Jun2025 01:14:19.059] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TES_BrunoBRM
+[16Jun2025 01:14:19.105] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jun2025 01:15:46.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e31ee46[id=<null>,name=TES_BrunoBRM,properties={},legacy=false] (/127.251.55.107:41665) lost connection: Disconnected
+[16Jun2025 01:15:51.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TES_BrunoBRM[/127.251.55.107:40493] logged in with entity id 21261 at (742.1722527845264, 96.00133597911214, 23.78796532289626)
+[16Jun2025 01:15:51.023] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player TES_BrunoBRM
+[16Jun2025 01:15:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM joined the game
+[16Jun2025 01:15:51.073] [Server thread/INFO] [Jade/]: Syncing config to TES_BrunoBRM (04747309-119f-3dc0-a748-d9fa7e7c892a)
+[16Jun2025 01:15:52.210] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TES_BrunoBRM (18)
+[16Jun2025 01:15:52.211] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TES_BrunoBRM
+[16Jun2025 01:18:44.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Defunct Machinery]
+[16Jun2025 01:18:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Magery]
+[16Jun2025 01:21:30.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [What a Deal!]
