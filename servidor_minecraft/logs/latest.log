@@ -817,3 +817,25 @@
 [16Jun2025 02:33:10.834] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
 [16Jun2025 02:33:10.834] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
 [16Jun2025 02:33:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported mi1mii to TES_BrunoBRM]
+[16Jun2025 02:40:52.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM withered away whilst fighting Nightmare Stalker
+[16Jun2025 02:40:52.724] [Server thread/INFO] [tombstone/]: The player TES_BrunoBRM has successfully been saved
+[16Jun2025 02:41:13.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TES_BrunoBRM lost connection: Timed out
+[16Jun2025 02:41:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM left the game
+[16Jun2025 02:41:13.211] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TES_BrunoBRM
+[16Jun2025 02:42:47.905] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@601879ba[id=<null>,name=TES_BrunoBRM,properties={},legacy=false] (/127.184.131.20:45893) lost connection: Disconnected
+[16Jun2025 02:42:53.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TES_BrunoBRM[/127.184.131.20:46267] logged in with entity id 46771 at (-7.5, 70.0, 6.5)
+[16Jun2025 02:42:53.119] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player TES_BrunoBRM
+[16Jun2025 02:42:53.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM joined the game
+[16Jun2025 02:42:53.158] [Server thread/INFO] [Jade/]: Syncing config to TES_BrunoBRM (04747309-119f-3dc0-a748-d9fa7e7c892a)
+[16Jun2025 02:42:55.509] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TES_BrunoBRM (18)
+[16Jun2025 02:42:55.510] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TES_BrunoBRM
+[16Jun2025 02:43:03.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported TES_BrunoBRM to 645.500000, 65.500000, 2.500000]
+[16Jun2025 02:43:23.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TES_BrunoBRM lost connection: Timed out
+[16Jun2025 02:43:23.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM left the game
+[16Jun2025 02:43:23.257] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TES_BrunoBRM
+[16Jun2025 02:43:41.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TES_BrunoBRM[/127.184.131.20:51773] logged in with entity id 47194 at (645.5, 65.0398514074224, 2.5)
+[16Jun2025 02:43:41.772] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player TES_BrunoBRM
+[16Jun2025 02:43:41.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM joined the game
+[16Jun2025 02:43:41.808] [Server thread/INFO] [Jade/]: Syncing config to TES_BrunoBRM (04747309-119f-3dc0-a748-d9fa7e7c892a)
+[16Jun2025 02:43:42.983] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TES_BrunoBRM (18)
+[16Jun2025 02:43:42.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TES_BrunoBRM
