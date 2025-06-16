@@ -4791,5 +4791,11 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/simple_pole": {
+    "criteria": {
+      "has_handle": "2025-06-16 00:39:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
