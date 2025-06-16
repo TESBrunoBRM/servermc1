@@ -58,7 +58,9 @@
       "minecraft:cold_ocean": "2025-06-14 08:11:15 +0000",
       "minecraft:forest": "2025-06-14 08:07:14 +0000",
       "minecraft:lush_caves": "2025-06-14 08:45:20 +0000",
+      "minecraft:ocean": "2025-06-16 04:06:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-15 16:31:23 +0000",
+      "minecraft:windswept_savanna": "2025-06-16 03:58:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-15 16:27:27 +0000",
       "minecraft:plains": "2025-06-14 08:04:21 +0000"
     },
@@ -5384,6 +5386,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-06-16 03:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-06-16 03:41:30 +0000"
@@ -5399,6 +5407,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-06-16 03:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-16 04:03:29 +0000"
     },
     "done": true
   },
@@ -5420,15 +5434,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-16 04:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-16 03:41:30 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-06-16 03:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-06-16 03:43:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-06-16 04:00:54 +0000"
     },
     "done": true
   },
@@ -5450,6 +5482,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-06-16 04:00:54 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-06-16 03:47:23 +0000"
@@ -5459,6 +5497,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-16 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-16 04:03:29 +0000"
     },
     "done": true
   },
@@ -5483,6 +5527,48 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-16 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-16 03:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-06-16 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-16 04:03:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-06-16 03:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-06-16 03:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-16 04:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-16 04:03:29 +0000"
     },
     "done": true
   },
