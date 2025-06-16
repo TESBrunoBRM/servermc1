@@ -5334,6 +5334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-16 03:05:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
