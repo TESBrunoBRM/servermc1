@@ -5094,6 +5094,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-16 02:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-16 02:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-16 02:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-16 02:36:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_parrying_dagger_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
@@ -5124,12 +5148,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-06-16 02:25:41 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_battle_hammer_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
@@ -5154,12 +5172,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spectral_bolt": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-16 02:45:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_spear_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
@@ -5178,12 +5190,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-06-16 02:25:41 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_lance_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
@@ -5196,21 +5202,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-06-16 02:36:10 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_flanged_mace_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-06-16 02:25:41 +0000"
     },
     "done": true
   },
@@ -5223,12 +5217,6 @@
   "spartanweaponry:recipes/combat/netherite_dagger_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-06-16 02:56:47 +0000"
     },
     "done": true
   },
@@ -5253,12 +5241,6 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-06-16 02:56:11 +0000"
     },
     "done": true
   },
@@ -5328,18 +5310,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-16 02:45:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-06-16 03:05:11 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
@@ -5358,6 +5328,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-16 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-16 02:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-16 02:45:46 +0000"
@@ -5367,6 +5349,30 @@
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-06-16 02:54:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-06-16 02:56:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-06-16 02:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-16 03:05:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 03:23:07 +0000"
     },
     "done": true
   },

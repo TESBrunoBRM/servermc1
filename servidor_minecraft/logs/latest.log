@@ -934,3 +934,12 @@
 [16Jun2025 02:56:11.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [An Ear-Shattering Roar]
 [16Jun2025 02:56:47.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [The Song of the Dragons]
 [16Jun2025 03:23:07.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Stolen Magic]
+[16Jun2025 03:27:06.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii lost connection: Disconnected
+[16Jun2025 03:27:06.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii left the game
+[16Jun2025 03:27:06.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mi1mii
+[16Jun2025 03:27:17.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mi1mii[/127.81.61.3:38013] logged in with entity id 57190 at (731.0937790691509, 96.0, 12.940362928862918)
+[16Jun2025 03:27:17.522] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mi1mii
+[16Jun2025 03:27:17.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii joined the game
+[16Jun2025 03:27:17.557] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
+[16Jun2025 03:27:19.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
+[16Jun2025 03:27:19.584] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
