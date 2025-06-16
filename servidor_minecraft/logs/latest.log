@@ -968,3 +968,16 @@
 [16Jun2025 04:42:15.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM left the game
 [16Jun2025 04:42:15.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TES_BrunoBRM
 [16Jun2025 04:48:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Flexible Schedule]
+[16Jun2025 04:56:30.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii lost connection: Disconnected
+[16Jun2025 04:56:30.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii left the game
+[16Jun2025 04:56:30.504] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mi1mii
+[16Jun2025 04:56:35.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jun2025 04:56:35.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jun2025 04:56:35.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jun2025 04:56:35.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jun2025 04:56:35.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jun2025 04:56:35.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jun2025 04:56:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jun2025 04:56:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jun2025 04:56:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jun2025 04:56:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
