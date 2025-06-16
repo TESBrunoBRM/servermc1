@@ -949,3 +949,4 @@
 [16Jun2025 03:38:13.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=69, z=-58} BlockPos{x=967, y=67, z=-58}
 [16Jun2025 03:39:47.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=961, y=80, z=-63} BlockPos{x=961, y=78, z=-63}
 [16Jun2025 03:42:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [The Imperial March]
+[16Jun2025 03:51:17.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Where Is The Stone Pen?]

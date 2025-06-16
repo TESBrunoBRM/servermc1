@@ -123,10 +123,12 @@
       "minecraft:blaze": "2025-06-15 17:27:04 +0000",
       "minecraft:skeleton": "2025-06-14 08:07:42 +0000",
       "minecraft:ghast": "2025-06-15 03:12:32 +0000",
+      "minecraft:hoglin": "2025-06-16 03:44:03 +0000",
       "minecraft:magma_cube": "2025-06-15 03:07:08 +0000",
       "minecraft:spider": "2025-06-14 08:44:28 +0000",
       "minecraft:piglin_brute": "2025-06-15 03:59:45 +0000",
       "minecraft:creeper": "2025-06-15 04:22:08 +0000",
+      "minecraft:slime": "2025-06-16 03:50:30 +0000",
       "minecraft:phantom": "2025-06-15 15:24:27 +0000",
       "minecraft:zombified_piglin": "2025-06-16 02:09:15 +0000",
       "minecraft:wither_skeleton": "2025-06-15 03:24:18 +0000",
@@ -5394,6 +5396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-16 03:43:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-06-16 03:41:30 +0000"
@@ -5418,9 +5426,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-16 03:43:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-16 03:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-06-16 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-16 03:43:05 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-06-16 03:47:23 +0000"
     },
     "done": true
   },
@@ -5436,9 +5468,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-06-16 03:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-16 03:43:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-16 03:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-16 03:47:19 +0000"
     },
     "done": true
   },
