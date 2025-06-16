@@ -930,3 +930,6 @@
 [16Jun2025 02:51:45.597] [Server thread/INFO] [Jade/]: Syncing config to TES_BrunoBRM (04747309-119f-3dc0-a748-d9fa7e7c892a)
 [16Jun2025 02:51:46.662] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TES_BrunoBRM (18)
 [16Jun2025 02:51:46.662] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TES_BrunoBRM
+[16Jun2025 02:54:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Dragon Commander]
+[16Jun2025 02:56:11.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [An Ear-Shattering Roar]
+[16Jun2025 02:56:47.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [The Song of the Dragons]

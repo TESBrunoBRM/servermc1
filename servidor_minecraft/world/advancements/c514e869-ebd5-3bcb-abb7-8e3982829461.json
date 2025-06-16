@@ -5226,6 +5226,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-06-16 02:56:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_quarterstaff_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
@@ -5247,6 +5253,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 02:36:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-06-16 02:56:11 +0000"
     },
     "done": true
   },
@@ -5343,6 +5355,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-16 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-06-16 02:54:42 +0000"
     },
     "done": true
   },
