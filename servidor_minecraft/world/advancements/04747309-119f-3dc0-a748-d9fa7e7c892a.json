@@ -3041,6 +3041,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-16 01:32:57 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-06-16 01:18:51 +0000"

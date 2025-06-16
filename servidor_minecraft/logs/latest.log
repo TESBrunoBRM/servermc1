@@ -36,3 +36,5 @@
 [16Jun2025 01:31:21.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has completed the challenge [It's Purple!]
 [16Jun2025 01:32:57.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Best Friends Forever]
 [16Jun2025 01:33:02.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii moved too quickly! 4.884680745661967,3.0,-8.240275335693621
+[16Jun2025 01:42:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has reached the goal [Horror Under the Mantle]
+[16Jun2025 01:43:21.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii moved too quickly! -1.3405426558314275,0.0,-10.103703529219747
