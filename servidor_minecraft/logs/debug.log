@@ -11173,3 +11173,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 04:24:28.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [16Jun2025 04:24:29.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [16Jun2025 04:24:29.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:26:41.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:26:41.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Nightmare Stalker
+[16Jun2025 04:26:41.707] [Server thread/DEBUG] [tombstone/]: A new grave of the player mi1mii was created at position [x:614, y:65, z:-16, dim:minecraft:overworld]
+[16Jun2025 04:26:41.713] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[16Jun2025 04:26:54.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:26:54.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:26:56.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:26:58.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:26:59.505] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:27:00.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:27:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Nightmare Stalker
+[16Jun2025 04:27:00.957] [Server thread/DEBUG] [tombstone/]: A new grave of the player mi1mii was created at position [x:611, y:65, z:-2, dim:minecraft:overworld]
+[16Jun2025 04:27:00.966] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[16Jun2025 04:27:15.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Nightmare Stalker
+[16Jun2025 04:27:15.607] [Server thread/DEBUG] [tombstone/]: A new grave of the player mi1mii was created at position [x:593, y:65, z:-6, dim:minecraft:overworld]
+[16Jun2025 04:27:15.615] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[16Jun2025 04:27:28.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jun2025 04:27:44.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 04:27:44.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 04:32:44.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 04:32:44.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
