@@ -6399,3 +6399,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 00:41:54.616] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
 [16Jun2025 00:42:31.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 00:42:31.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:47:31.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:47:31.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:52:31.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:52:31.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
