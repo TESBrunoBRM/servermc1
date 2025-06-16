@@ -964,3 +964,6 @@
 [16Jun2025 04:27:00.966] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
 [16Jun2025 04:27:15.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii was slain by Nightmare Stalker
 [16Jun2025 04:27:15.615] [Server thread/INFO] [tombstone/]: The player mi1mii has successfully been saved
+[16Jun2025 04:42:15.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TES_BrunoBRM lost connection: Disconnected
+[16Jun2025 04:42:15.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM left the game
+[16Jun2025 04:42:15.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TES_BrunoBRM
