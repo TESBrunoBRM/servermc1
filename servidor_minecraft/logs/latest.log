@@ -943,3 +943,9 @@
 [16Jun2025 03:27:17.557] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
 [16Jun2025 03:27:19.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
 [16Jun2025 03:27:19.584] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
+[16Jun2025 03:38:10.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=963, y=69, z=-58} BlockPos{x=964, y=67, z=-58}
+[16Jun2025 03:38:11.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=962, y=69, z=-55} BlockPos{x=962, y=68, z=-54}
+[16Jun2025 03:38:13.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=69, z=-57} BlockPos{x=967, y=67, z=-58}
+[16Jun2025 03:38:13.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=968, y=69, z=-58} BlockPos{x=967, y=67, z=-58}
+[16Jun2025 03:39:47.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=961, y=80, z=-63} BlockPos{x=961, y=78, z=-63}
+[16Jun2025 03:42:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [The Imperial March]
