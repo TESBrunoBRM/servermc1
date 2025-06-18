@@ -3559,9 +3559,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_1": "2025-06-18 03:55:21 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-06-18 02:23:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-06-18 03:55:21 +0000"
     },
     "done": true
   },

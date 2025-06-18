@@ -2416,3 +2416,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 03:31:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Gave 30 experience points to TES_BrunoBRM]
 [18Jun2025 03:31:29.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Gave 100 experience points to TES_BrunoBRM]
 [18Jun2025 03:31:33.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Gave 10000 experience points to TES_BrunoBRM]
+[18Jun2025 03:54:20.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KukiGirlX[/127.69.70.33:60793] logged in with entity id 20307 at (-8.5, 68.0, -5.5)
+[18Jun2025 03:54:20.602] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KukiGirlX
+[18Jun2025 03:54:20.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX joined the game
+[18Jun2025 03:54:20.631] [Server thread/INFO] [Jade/]: Syncing config to KukiGirlX (48d0332f-a179-33a2-a46a-5a8eacbb190c)
+[18Jun2025 03:54:20.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has made the advancement [Dungeons And Combat]
+[18Jun2025 03:54:20.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has made the advancement [Ice and Fire]
+[18Jun2025 03:55:10.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KukiGirlX (18)
+[18Jun2025 03:55:10.600] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KukiGirlX
+[18Jun2025 03:55:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has reached the goal [Dark Blacksmith]
+[18Jun2025 03:59:38.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX was slain by Spider
+[18Jun2025 03:59:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has made the advancement [Your First Grave]
+[18Jun2025 03:59:38.612] [Server thread/INFO] [tombstone/]: The player KukiGirlX has successfully been saved
