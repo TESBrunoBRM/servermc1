@@ -2570,3 +2570,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 05:20:48.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KukiGirlX lost connection: Flying is not enabled on this server
 [18Jun2025 05:20:48.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX left the game
 [18Jun2025 05:20:48.350] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KukiGirlX
+[18Jun2025 05:21:05.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KukiGirlX[/127.69.70.33:51005] logged in with entity id 48869 at (595.9143298353272, 68.00133597911214, -56.897525625671335)
+[18Jun2025 05:21:05.355] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KukiGirlX
+[18Jun2025 05:21:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX joined the game
+[18Jun2025 05:21:05.363] [Server thread/INFO] [Jade/]: Syncing config to KukiGirlX (48d0332f-a179-33a2-a46a-5a8eacbb190c)
+[18Jun2025 05:21:05.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KukiGirlX (18)
+[18Jun2025 05:21:05.877] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KukiGirlX
+[18Jun2025 05:23:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX was slain by Nightmare Stalker
+[18Jun2025 05:23:19.455] [Server thread/INFO] [tombstone/]: The player KukiGirlX has successfully been saved
+[18Jun2025 05:24:03.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has made the advancement [Mother of Dragons]
+[18Jun2025 05:24:40.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has reached the goal [Fighting Nightmares]
+[18Jun2025 05:24:46.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has made the advancement [Dark Metallurgy]
+[18Jun2025 05:26:23.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=624, y=67, z=-37} BlockPos{x=625, y=67, z=-39}

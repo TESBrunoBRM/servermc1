@@ -165,10 +165,12 @@
       "baked_potato": "2025-06-15 13:14:14 +0000",
       "potato": "2025-06-15 13:07:16 +0000",
       "bread": "2025-06-14 08:41:09 +0000",
+      "golden_apple": "2025-06-18 05:28:58 +0000",
       "rotten_flesh": "2025-06-14 08:10:57 +0000",
       "glow_berries": "2025-06-14 08:38:25 +0000",
       "golden_carrot": "2025-06-15 04:05:54 +0000",
       "cooked_chicken": "2025-06-14 08:57:15 +0000",
+      "enchanted_golden_apple": "2025-06-18 05:29:04 +0000",
       "carrot": "2025-06-15 18:06:04 +0000"
     },
     "done": false
@@ -5584,15 +5586,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-06-18 05:23:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-18 05:23:42 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-06-18 04:20:59 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-06-18 05:23:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-06-18 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-06-18 05:23:42 +0000"
     },
     "done": true
   },
@@ -5608,9 +5634,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-06-18 05:23:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-06-18 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-18 05:24:03 +0000"
     },
     "done": true
   },
