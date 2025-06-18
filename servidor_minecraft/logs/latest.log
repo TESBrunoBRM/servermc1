@@ -2409,3 +2409,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 02:08:55.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [The Wind Darkening]
 [18Jun2025 02:23:56.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has reached the goal [Exorcism]
 [18Jun2025 02:28:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Gave 25 [Diamond] to TES_BrunoBRM]
+[18Jun2025 02:48:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set the time to 1000]
