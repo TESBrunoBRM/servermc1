@@ -2428,3 +2428,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 03:59:38.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX was slain by Spider
 [18Jun2025 03:59:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has made the advancement [Your First Grave]
 [18Jun2025 03:59:38.612] [Server thread/INFO] [tombstone/]: The player KukiGirlX has successfully been saved
+[18Jun2025 04:01:08.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX was slain by Nightmare Stalker
+[18Jun2025 04:01:08.502] [Server thread/INFO] [tombstone/]: The player KukiGirlX has successfully been saved
+[18Jun2025 04:02:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX was slain by Decaying Zombie
+[18Jun2025 04:02:24.447] [Server thread/INFO] [tombstone/]: The player KukiGirlX has successfully been saved
+[18Jun2025 04:04:13.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TES_BrunoBRM> a
+[18Jun2025 04:07:49.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: surfyranger_c[/127.84.83.174:34587] logged in with entity id 23296 at (9.5, 71.0, 10.5)
+[18Jun2025 04:07:49.252] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player surfyranger_c
+[18Jun2025 04:07:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: surfyranger_c joined the game
+[18Jun2025 04:07:49.274] [Server thread/INFO] [Jade/]: Syncing config to surfyranger_c (4ae11e17-1a86-3129-9118-0df9c9cf1b0c)
+[18Jun2025 04:07:49.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: surfyranger_c has made the advancement [Dungeons And Combat]
+[18Jun2025 04:07:49.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: surfyranger_c has made the advancement [Ice and Fire]
+[18Jun2025 04:07:51.979] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of surfyranger_c (18)
+[18Jun2025 04:07:51.979] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to surfyranger_c
+[18Jun2025 04:07:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported KukiGirlX to TES_BrunoBRM]
+[18Jun2025 04:08:19.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: surfyranger_c lost connection: Disconnected
+[18Jun2025 04:08:19.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: surfyranger_c left the game
+[18Jun2025 04:08:19.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client surfyranger_c
+[18Jun2025 04:08:19.388] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jun2025 04:09:33.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: surfyranger_c[/127.84.83.174:37841] logged in with entity id 23705 at (9.5, 71.0, 10.5)
+[18Jun2025 04:09:33.202] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player surfyranger_c
+[18Jun2025 04:09:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: surfyranger_c joined the game
+[18Jun2025 04:09:33.232] [Server thread/INFO] [Jade/]: Syncing config to surfyranger_c (4ae11e17-1a86-3129-9118-0df9c9cf1b0c)
+[18Jun2025 04:09:35.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of surfyranger_c (18)
+[18Jun2025 04:09:35.993] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to surfyranger_c
