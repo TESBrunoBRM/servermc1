@@ -2582,3 +2582,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 05:24:40.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has reached the goal [Fighting Nightmares]
 [18Jun2025 05:24:46.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has made the advancement [Dark Metallurgy]
 [18Jun2025 05:26:23.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=624, y=67, z=-37} BlockPos{x=625, y=67, z=-39}
+[18Jun2025 05:31:46.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KukiGirlX was kicked for floating too long!
+[18Jun2025 05:31:46.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KukiGirlX lost connection: Flying is not enabled on this server
+[18Jun2025 05:31:46.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX left the game
+[18Jun2025 05:31:46.900] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KukiGirlX
+[18Jun2025 05:32:03.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KukiGirlX[/127.69.70.33:53855] logged in with entity id 54785 at (614.2680042279908, 66.24918707874468, -16.567480866550767)
+[18Jun2025 05:32:03.856] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KukiGirlX
+[18Jun2025 05:32:03.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX joined the game
+[18Jun2025 05:32:03.861] [Server thread/INFO] [Jade/]: Syncing config to KukiGirlX (48d0332f-a179-33a2-a46a-5a8eacbb190c)
+[18Jun2025 05:32:05.923] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KukiGirlX (18)
+[18Jun2025 05:32:05.924] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KukiGirlX
+[18Jun2025 05:36:55.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TES_BrunoBRM> xaero-waypoint:casa:C:616:82:133:15:false:0:Internal-overworld-waypoints
+[18Jun2025 05:37:02.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KukiGirlX> 621 68 -53
+[18Jun2025 05:37:55.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM was slain by Cave Centipede
+[18Jun2025 05:37:55.261] [Server thread/INFO] [tombstone/]: The player TES_BrunoBRM has successfully been saved
+[18Jun2025 05:38:17.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported TES_BrunoBRM to 556.500000, -30.500000, 398.500000]
