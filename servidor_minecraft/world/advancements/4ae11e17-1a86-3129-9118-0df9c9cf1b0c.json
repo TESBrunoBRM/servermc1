@@ -47,12 +47,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-06-18 04:07:50 +0000"
-    },
-    "done": false
-  },
   "realmrpg_quests:root": {
     "criteria": {
       "root_0": "2025-06-18 04:07:49 +0000"
@@ -77,9 +71,36 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-06-18 04:10:14 +0000",
+      "minecraft:stony_shore": "2025-06-18 04:12:09 +0000",
+      "minecraft:forest": "2025-06-18 04:07:50 +0000",
+      "minecraft:plains": "2025-06-18 04:09:51 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-06-18 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_titan": {
+    "criteria": {
+      "the_titan_0": "2025-06-18 04:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-18 04:17:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:origin": {
+    "criteria": {
+      "origin_0": "2025-06-18 04:12:00 +0000"
     },
     "done": true
   },
