@@ -2561,3 +2561,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 05:04:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has reached the goal [Heliomancer]
 [18Jun2025 05:04:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has reached the goal [Big Boy]
 [18Jun2025 05:04:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has reached the goal [RAMPAGE!]
+[18Jun2025 05:11:42.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [Flexible Schedule]
+[18Jun2025 05:17:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported mi1mii to TES_BrunoBRM]
+[18Jun2025 05:18:21.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii has completed the challenge [It Spreads]
+[18Jun2025 05:18:36.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has reached the goal [Arachnophobe's Nightmare]
+[18Jun2025 05:19:19.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX has made the advancement [A Seedy Place]
+[18Jun2025 05:20:48.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KukiGirlX was kicked for floating too long!
+[18Jun2025 05:20:48.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KukiGirlX lost connection: Flying is not enabled on this server
+[18Jun2025 05:20:48.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KukiGirlX left the game
+[18Jun2025 05:20:48.350] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KukiGirlX
