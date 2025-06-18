@@ -2406,3 +2406,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Jun2025 01:59:29.565] [Server thread/INFO] [Jade/]: Syncing config to TES_BrunoBRM (04747309-119f-3dc0-a748-d9fa7e7c892a)
 [18Jun2025 01:59:31.768] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TES_BrunoBRM (18)
 [18Jun2025 01:59:31.770] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TES_BrunoBRM
+[18Jun2025 02:08:55.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TES_BrunoBRM has made the advancement [The Wind Darkening]
