@@ -2075,3 +2075,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jun2025 03:37:06.811] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
 [19Jun2025 03:37:11.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
 [19Jun2025 03:37:11.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
+[19Jun2025 03:41:42.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii was kicked for floating too long!
+[19Jun2025 03:41:42.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mi1mii lost connection: Flying is not enabled on this server
+[19Jun2025 03:41:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii left the game
+[19Jun2025 03:41:42.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mi1mii
+[19Jun2025 03:41:53.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mi1mii[/127.81.61.3:33547] logged in with entity id 10056 at (648.0027847942912, 65.7531999805212, -4.25112214662763)
+[19Jun2025 03:41:53.365] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mi1mii
+[19Jun2025 03:41:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii joined the game
+[19Jun2025 03:41:53.399] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
+[19Jun2025 03:41:55.425] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
+[19Jun2025 03:41:55.426] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
+[19Jun2025 03:42:04.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has made the advancement [Monster Hunter]
+[19Jun2025 03:43:25.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC was slain by TES_BrunoBRM
+[19Jun2025 03:43:25.298] [Server thread/INFO] [tombstone/]: The player WeakHeartMC has successfully been saved
+[19Jun2025 03:43:35.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported WeakHeartMC to TES_BrunoBRM]
+[19Jun2025 03:43:54.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has made the advancement [Knowledge of Death]
+[19Jun2025 03:43:54.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has reached the goal [Chain Death]
+[19Jun2025 03:43:54.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC was slain by mi1mii
+[19Jun2025 03:43:54.748] [Server thread/INFO] [tombstone/]: The player WeakHeartMC has successfully been saved
+[19Jun2025 03:44:07.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported WeakHeartMC to TES_BrunoBRM]
+[19Jun2025 03:47:49.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has made the advancement [Cover Me with Diamonds]
+[19Jun2025 03:48:16.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC was slain by mi1mii
+[19Jun2025 03:48:16.947] [Server thread/INFO] [tombstone/]: The player WeakHeartMC has successfully been saved

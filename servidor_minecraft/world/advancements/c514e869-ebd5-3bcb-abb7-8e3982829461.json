@@ -5586,15 +5586,51 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
+  "legendary_monsters:end_root": {
     "criteria": {
-      "has_item": "2025-06-18 05:23:42 +0000"
+      "custom_test_name": "2025-06-18 04:20:59 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_leggings": {
+  "legendary_monsters:legendary_monsters_root": {
     "criteria": {
-      "has_item": "2025-06-18 05:31:20 +0000"
+      "custom_test_name": "2025-06-18 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-18 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-18 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-18 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-18 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-18 05:18:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-06-18 05:23:42 +0000"
     },
     "done": true
   },
@@ -5604,21 +5640,33 @@
     },
     "done": true
   },
-  "legendary_monsters:end_root": {
-    "criteria": {
-      "custom_test_name": "2025-06-18 04:20:59 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
       "has_item": "2025-06-18 05:23:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
+  "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
-      "has_brick": "2025-06-18 04:55:33 +0000"
+      "has_item": "2025-06-18 05:23:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-06-18 05:23:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-18 05:24:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-06-18 05:31:20 +0000"
     },
     "done": true
   },
@@ -5634,45 +5682,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-06-18 05:32:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
-    "criteria": {
-      "has_item": "2025-06-18 05:23:42 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
     "criteria": {
       "has_dragonscales_green": "2025-06-18 05:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-06-18 04:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-06-18 05:18:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2025-06-18 05:23:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-06-18 04:55:33 +0000"
     },
     "done": true
   },
@@ -5682,21 +5694,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
-      "egg": "2025-06-18 05:24:03 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:legendary_monsters_root": {
-    "criteria": {
-      "custom_test_name": "2025-06-18 04:20:59 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:nether_root": {
-    "criteria": {
-      "custom_test_name": "2025-06-18 04:20:59 +0000"
+      "has_item": "2025-06-18 05:32:26 +0000"
     },
     "done": true
   },
