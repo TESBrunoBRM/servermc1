@@ -2037,3 +2037,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jun2025 02:59:38.701] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TES_BrunoBRM (18)
 [19Jun2025 02:59:38.703] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TES_BrunoBRM
 [19Jun2025 03:00:28.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Creative Mode]
+[19Jun2025 03:22:05.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Survival Mode]
+[19Jun2025 03:26:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Creative Mode]

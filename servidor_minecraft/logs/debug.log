@@ -6196,3 +6196,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jun2025 03:11:35.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_farmer
 [19Jun2025 03:13:20.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jun2025 03:13:20.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 03:18:20.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 03:18:20.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 03:22:05.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Survival Mode]
+[19Jun2025 03:23:20.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 03:23:20.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 03:23:51.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Jun2025 03:23:55.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Jun2025 03:23:55.353] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@4f27ab1a for service interface com.blamejared.clumps.platform.IEventHelper
+[19Jun2025 03:23:55.354] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@39b10fed for service interface com.blamejared.clumps.platform.IPlatformHelper
+[19Jun2025 03:23:59.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Jun2025 03:24:01.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Jun2025 03:24:03.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Jun2025 03:26:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Creative Mode]
