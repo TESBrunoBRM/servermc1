@@ -2039,3 +2039,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Jun2025 03:00:28.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Creative Mode]
 [19Jun2025 03:22:05.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Survival Mode]
 [19Jun2025 03:26:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Creative Mode]
+[19Jun2025 03:28:10.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Set own game mode to Survival Mode]
+[19Jun2025 03:31:17.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WeakHeartMC[/127.33.151.168:44027] logged in with entity id 7524 at (-9.5, 68.0, -2.5)
+[19Jun2025 03:31:17.307] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player WeakHeartMC
+[19Jun2025 03:31:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC joined the game
+[19Jun2025 03:31:17.350] [Server thread/INFO] [Jade/]: Syncing config to WeakHeartMC (0f88542f-8255-381f-96d6-543f0e800d5c)
+[19Jun2025 03:31:17.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has made the advancement [Dungeons And Combat]
+[19Jun2025 03:31:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has made the advancement [Ice and Fire]
+[19Jun2025 03:31:19.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WeakHeartMC (18)
+[19Jun2025 03:31:19.851] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WeakHeartMC
+[19Jun2025 03:31:32.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC was slain by Peacock Spider
+[19Jun2025 03:31:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has made the advancement [Your First Grave]
+[19Jun2025 03:31:32.120] [Server thread/INFO] [tombstone/]: The player WeakHeartMC has successfully been saved
+[19Jun2025 03:31:47.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WeakHeartMC lost connection: Timed out
+[19Jun2025 03:31:47.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC left the game
+[19Jun2025 03:31:47.395] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WeakHeartMC
+[19Jun2025 03:31:47.442] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 03:33:42.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WeakHeartMC[/127.33.151.168:55463] logged in with entity id 8114 at (-9.5, 68.0, -2.5)
+[19Jun2025 03:33:42.910] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player WeakHeartMC
+[19Jun2025 03:33:42.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC joined the game
+[19Jun2025 03:33:42.938] [Server thread/INFO] [Jade/]: Syncing config to WeakHeartMC (0f88542f-8255-381f-96d6-543f0e800d5c)
+[19Jun2025 03:33:45.122] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WeakHeartMC (18)
+[19Jun2025 03:33:45.122] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WeakHeartMC
+[19Jun2025 03:33:52.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported WeakHeartMC to TES_BrunoBRM]
+[19Jun2025 03:34:02.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported WeakHeartMC to TES_BrunoBRM]
+[19Jun2025 03:34:06.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has reached the goal [Here They Come]
+[19Jun2025 03:34:24.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC was slain by TES_BrunoBRM
+[19Jun2025 03:34:24.498] [Server thread/INFO] [tombstone/]: The player WeakHeartMC has successfully been saved
+[19Jun2025 03:34:39.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TES_BrunoBRM: Teleported WeakHeartMC to TES_BrunoBRM]
+[19Jun2025 03:35:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has made the advancement [Isn't It Iron Pick]
+[19Jun2025 03:35:43.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WeakHeartMC has made the advancement [Diamonds!]
+[19Jun2025 03:37:06.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mi1mii[/127.81.61.3:55519] logged in with entity id 9090 at (602.6276848894925, 65.0, -7.733370814611109)
+[19Jun2025 03:37:06.772] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mi1mii
+[19Jun2025 03:37:06.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mi1mii joined the game
+[19Jun2025 03:37:06.811] [Server thread/INFO] [Jade/]: Syncing config to mi1mii (c514e869-ebd5-3bcb-abb7-8e3982829461)
+[19Jun2025 03:37:11.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mi1mii (18)
+[19Jun2025 03:37:11.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mi1mii
